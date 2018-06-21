@@ -1,7 +1,39 @@
-00:20 [This is the first time Kiwi encouters a golden egg. Not knowing what it was, it lets it go the first time.]
-00:30 [When it encounters it the second time, Kiwi is more curious to see what it might be like.]
-00:50 [Fascinated by its playful appearance, Kiwi decides to take a sip of it!]
-01:00 [And thus starts the never ending journey to ADDICTION]
-01:15 [Once addicted, its a never ending vicious loop the Kiwi has gotten into.]
-01:25 [More and more, there goes the door]
-01:30 [What Kiwi doesnt realize by this time is that the Nugget has already started taking toll on its body!]
+{
+  story:[
+    {
+    "timline":"00:20",
+    "type":"text",
+    "data":"This is the first time Kiwi encouters a golden egg. Not knowing what it was, it lets it go the first time."
+    },
+    {
+    "timline":"00:30",
+    "type":"text",
+    "data":"When it encounters it the second time, Kiwi is more curious to see what it might be like."
+    },
+    {
+    "timline":"00:50",
+    "type":"text",
+    "data":"Fascinated by its playful appearance, Kiwi decides to take a sip of it!"
+    },
+    {
+    "timline":"01:00",
+    "type":"text",
+    "data":"And thus starts the never ending journey to ADDICTION."
+    },
+    {
+    "timline":"01:15",
+    "type":"text",
+    "data":"Once addicted, its a never ending vicious loop the Kiwi has gotten into."
+    },
+    {
+    "timline":"01:25",
+    "type":"text",
+    "data":"More and more, there goes the door."
+    },
+    {
+    "timline":"01:30",
+    "type":"text",
+    "data":"What Kiwi doesnt realize by this time is that the Nugget has already started taking toll on its body!"
+    }
+   ]
+ }
